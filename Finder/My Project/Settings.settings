@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SearchFolder1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="SearchFolder2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\</Value>
+    </Setting>
+    <Setting Name="SearchFolder3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G:\</Value>
+    </Setting>
+    <Setting Name="Keyword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">keyword</Value>
+    </Setting>
+    <Setting Name="TargetIsFolder" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TargetIsExp" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TargetIsGraphic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ActionOpenFolder" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ActionOpenFirstFile" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SearchExp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">zip</Value>
+    </Setting>
+    <Setting Name="FolderPreFix" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ATTN</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

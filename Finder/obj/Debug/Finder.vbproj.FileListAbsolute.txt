@@ -1,0 +1,12 @@
+R:\Finder\Finder\bin\Debug\Finder.exe.config
+R:\Finder\Finder\bin\Debug\Finder.exe
+R:\Finder\Finder\bin\Debug\Finder.pdb
+R:\Finder\Finder\bin\Debug\Finder.xml
+R:\Finder\Finder\obj\Debug\Finder.Form1.resources
+R:\Finder\Finder\obj\Debug\Finder.Resources.resources
+R:\Finder\Finder\obj\Debug\Finder.vbproj.GenerateResource.cache
+R:\Finder\Finder\obj\Debug\Finder.vbproj.CoreCompileInputs.cache
+R:\Finder\Finder\obj\Debug\Finder.exe
+R:\Finder\Finder\obj\Debug\Finder.xml
+R:\Finder\Finder\obj\Debug\Finder.pdb
+R:\Finder\Finder\obj\Debug\Finder.vbprojResolveAssemblyReference.cache
