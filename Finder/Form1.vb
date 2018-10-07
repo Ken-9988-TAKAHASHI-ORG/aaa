@@ -109,7 +109,11 @@
         End If
 
     End Function
-
+    ''' <summary>
+    ''' ファイルを開く
+    ''' </summary>
+    ''' <param name="filename"></param>
+    ''' <returns></returns>
     Private Function getVerbAndOpen(filename As String) As Boolean
         getVerbAndOpen = True
         Dim target As String
